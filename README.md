@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarthhakarora
-- 👀 I’m interested in Game dev, malware and web scraping
-- 🌱 I’m currently learning Game dev
+- 👀 I’m interested in Game dev and low level coding!
+- 🌱 I’m currently learning Game dev with c++
 
 <!---
 sarthhakarora/sarthhakarora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
